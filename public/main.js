@@ -1,4 +1,4 @@
 
-document.getElementById('islem').innerHTML='bunu işleme 3344 dene';
+document.getElementById('islem').innerHTML='bunu rrt işleme 3344 dene';
 
 
