@@ -1,4 +1,4 @@
 
-document.getElementById('islem').innerHTML='bunu işleme ata';
-console.log(334)
+document.getElementById('islem').innerHTML='bunu işleme dene';
+
 
