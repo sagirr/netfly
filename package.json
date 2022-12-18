@@ -1,0 +1,23 @@
+{
+  "name": "ntflyproje",
+  "version": "1.0.0",
+  "description": "testap",
+  "main": "main.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagir/netfly.git"
+  },
+  "author": "sagiratac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagir/netfly/issues"
+  },
+  "homepage": "https://github.com/sagir/netfly#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
